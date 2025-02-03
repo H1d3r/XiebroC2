@@ -1,5 +1,6 @@
-set https_proxy=http://127.0.0.1:9999
+set https_proxy=http://10.211.55.2:7890
 git init
 git add .
-git commit -m "makew"
+git commit -m "makeW"
 git push -f
+
